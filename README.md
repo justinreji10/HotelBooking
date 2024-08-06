@@ -19,13 +19,13 @@ Dependencies
 ---
 This project relies on the following Python packages-
 
-pandas
+Pandas
 
-numpy
+Numpy
 
-matplotlib
+Matplotlib
 
-seaborn
+Seaborn
 
 Contact
 -
